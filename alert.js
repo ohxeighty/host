@@ -1,1 +1,1 @@
-javascript:alert(100)
+alert(1)
